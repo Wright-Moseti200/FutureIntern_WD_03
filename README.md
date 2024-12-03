@@ -1,3 +1,27 @@
+# React Todo List Application
+
+## 🌟 Overview
+A powerful and intuitive Todo list application built with React.js, designed to help users manage their tasks efficiently and productively.
+
+## ✨ Features
+- Add new tasks
+- Delete tasks
+- Responsive design
+
+## 🛠 Technologies Used
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- Local Storage
+- React Hooks
+
+## 📦 Installation
+
+### Prerequisites
+- Node.js (v14 or later)
+- npm or yarn
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
